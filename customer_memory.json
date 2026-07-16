@@ -1,0 +1,80 @@
+{
+  "ACCT_1002": [
+    {
+      "timestamp": "2024-01-10T09:15:00+00:00",
+      "query": "My 4G data keeps cutting out near downtown. It's been happening all week.",
+      "intent": "network",
+      "agent_used": "Network Support Agent",
+      "resolution_type": "troubleshoot",
+      "response_summary": "Advised to toggle airplane mode and reset APN settings. Local tower under maintenance until Jan 15."
+    },
+    {
+      "timestamp": "2024-01-14T14:30:00+00:00",
+      "query": "The data issue is still happening after the maintenance window.",
+      "intent": "network",
+      "agent_used": "Network Support Agent",
+      "resolution_type": "escalate",
+      "response_summary": "Escalated to field technician team. Ticket #NET-4421 raised. Customer advised to expect resolution within 48 hours."
+    },
+    {
+      "timestamp": "2026-03-12T07:05:15.381099+00:00",
+      "query": "My bill is higher than usual this month. Could it be related to my recent data issues?",
+      "intent": "billing",
+      "agent_used": "Billing Specialist",
+      "resolution_type": "inform",
+      "response_summary": "Hello Alexandra! \n\nI understand your concern regarding the higher bill this month. It's possible that the recent data issues could have contributed to increased usage, especially if you were using mob"
+    },
+    {
+      "timestamp": "2026-03-12T07:05:22.871896+00:00",
+      "query": "It says I used 12GB of data but my plan is 15GB. Why would I be charged extra?",
+      "intent": "billing",
+      "agent_used": "Billing Specialist",
+      "resolution_type": "refund",
+      "response_summary": "Hello Alexandra!\n\nThank you for your patience. I see that you used 12GB of data this month, which is within your 15GB plan limit. However, there are a few reasons why your bill may still be higher tha"
+    },
+    {
+      "timestamp": "2026-03-12T07:05:27.305509+00:00",
+      "query": "Can you request a refund of the extra charges and confirm the ticket number?",
+      "intent": "billing",
+      "agent_used": "Billing Specialist",
+      "resolution_type": "refund",
+      "response_summary": "Hello Alexandra!\n\nI understand your request for a refund of any extra charges. To proceed with this, I will need to file a request on your behalf. \n\nPlease hold on for a moment while I initiate the re"
+    }
+  ],
+  "ACCT_1000": [
+    {
+      "timestamp": "2026-03-12T06:46:06.054845+00:00",
+      "query": "My signal keeps dropping in my apartment and I'm losing calls constantly. What can I do?",
+      "intent": "network",
+      "agent_used": "Network Support Agent",
+      "resolution_type": "troubleshoot",
+      "response_summary": "Hello Dorcas! I'm sorry to hear that you're experiencing signal issues in your apartment. Let's go through some troubleshooting steps to see if we can improve your situation.\n\n1. **Check Signal Streng"
+    },
+    {
+      "timestamp": "2026-03-12T07:05:10.364653+00:00",
+      "query": "My signal keeps dropping in my apartment and I'm losing calls constantly. What can I do?",
+      "intent": "network",
+      "agent_used": "Network Support Agent",
+      "resolution_type": "troubleshoot",
+      "response_summary": "Hello Dorcas! \n\nI'm sorry to hear that you're experiencing signal issues in your apartment. Let's go through some troubleshooting steps to see if we can improve your connection.\n\n1. **Check Signal Str"
+    }
+  ],
+  "ACCT_1001": [
+    {
+      "timestamp": "2026-03-12T06:46:23.120229+00:00",
+      "query": "I want a full refund of $120 from my last three bills. Cancel all charges immediately.",
+      "intent": "billing",
+      "agent_used": "Billing Specialist",
+      "resolution_type": "escalate",
+      "response_summary": "Hello Dessie! This refund request exceeds the standard agent authorisation limit. Large refunds and full charge waivers require approval from a senior billing manager. I'm escalating your case now \u2014 a"
+    },
+    {
+      "timestamp": "2026-03-12T07:05:28.513961+00:00",
+      "query": "I want a full refund of $120 from my last three bills. Cancel all charges immediately.",
+      "intent": "billing",
+      "agent_used": "Billing Specialist",
+      "resolution_type": "escalate",
+      "response_summary": "Hello Dessie! This refund request exceeds the standard agent authorisation limit. Large refunds and full charge waivers require approval from a senior billing manager. I'm escalating your case now \u2014 a"
+    }
+  ]
+}
